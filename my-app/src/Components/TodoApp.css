@@ -1,0 +1,21 @@
+  .checkbox-wrapper{
+    font-size: large;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    background-image: url('https://wallpapercave.com/fuwp/uwp3533694.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+  .head{
+    font-weight: 500;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+  }
